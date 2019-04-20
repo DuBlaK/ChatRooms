@@ -5,3 +5,5 @@ ChatRooms build using React + Redux + HTML5 + CSS3.
 Getting started
   - Run 'node server' from folder 'server'
   - Open index.html from folder 'output'
+![alt text](http://url/to/1.png)
+![alt text](http://url/to/2.png)
